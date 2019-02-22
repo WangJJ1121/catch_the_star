@@ -1,2 +1,3 @@
-# catch_the_star
-A tiny game with pygame
+# Catch The Star
+
+一个用pygame写的超级小, 超级简单的游戏. 当然, 内容也是...
